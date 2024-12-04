@@ -1,0 +1,33 @@
+﻿body {
+    background-color: #979292;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: aliceblue
+}
+
+.btn {
+    color: white;
+    background-color: #5cf368;
+    text-align: center;
+}
+
+.btn:hover{
+    background-color:red:
+}
+
+.imputTextbox {
+    width: 100%;
+    padding: 5px;
+    font-size: 16px;
+}
+
+h1{
+    text-align:center;
+}
