@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Productos>
+  <Producto>
+    <Nombre>pan</Nombre>
+    <Precio>100,00</Precio>
+    <Cantidad>2</Cantidad>
+  </Producto>
+  <Producto>
+    <Nombre>leche</Nombre>
+    <Precio>20,00</Precio>
+    <Cantidad>3</Cantidad>
+  </Producto>
+  <Producto>
+    <Nombre>pancho</Nombre>
+    <Precio>100,00</Precio>
+    <Cantidad>3</Cantidad>
+  </Producto>
+</Productos>

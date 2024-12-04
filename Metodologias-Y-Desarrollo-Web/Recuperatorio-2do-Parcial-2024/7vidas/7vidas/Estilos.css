@@ -1,0 +1,49 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#altaProducto {
+    background-color: orange;
+    color: white;
+}
+
+#altaProducto:hover {
+    background-color: lightgreen;
+}
+
+#descargaXML {
+    background-color: yellow;
+    color: black;
+}
+
+#descargaXML:hover {
+    background-color: lightgreen;
+}
+
+@media (max-width: 480px) {
+    form {
+        padding: 15px;
+    }
+}
