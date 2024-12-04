@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Libros>
+  <Libro>
+    <Nombre>we</Nombre>
+    <Autor>a</Autor>
+    <Edicion>12</Edicion>
+  </Libro>
+  <Libro>
+    <Nombre>we</Nombre>
+    <Autor>a</Autor>
+    <Edicion>12</Edicion>
+  </Libro>
+  <Libro>
+    <Nombre>sdgh</Nombre>
+    <Autor>sdgs</Autor>
+    <Edicion>1212</Edicion>
+  </Libro>
+  <Libro>
+    <Nombre>we</Nombre>
+    <Autor>a</Autor>
+    <Edicion>12</Edicion>
+  </Libro>
+</Libros>
